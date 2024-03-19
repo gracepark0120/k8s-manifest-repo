@@ -4,6 +4,9 @@ images:
 - name: 341552581828.dkr.ecr.ap-southeast-1.amazonaws.com/demo-frontend
   newName: 341552581828.dkr.ecr.ap-southeast-1.amazonaws.com/demo-frontend
   newTag: abcdefg
+- name: 341552581828.dkr.ecr.ap-southeast-1.amazonaws.com/demo-grace-frontend
+  newName: 341552581828.dkr.ecr.ap-southeast-1.amazonaws.com/demo-grace-frontend
+  newTag: 119fe8ae
 resources:
 - ../../base
 patchesStrategicMerge:
